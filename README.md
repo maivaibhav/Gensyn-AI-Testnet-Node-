@@ -81,7 +81,7 @@ If you encounter any issues, here are some common solutions:
 - **Problem:** Node fails to sync.  
   **Solution:** Restart the node and check your internet connection.  
 
-For more support, refer to the [official documentation](#) or ask for help in the community.
+For more support, refer to the [official documentation](https://github.com/gensyn-ai/rl-swarm) or ask for help in the community.
 
 ---
 
